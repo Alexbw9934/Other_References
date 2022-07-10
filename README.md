@@ -3,6 +3,8 @@
 [Angel](https://angel.co)
 
 [Toptal](https://www.toptal.com)
+
+[Resume](https://app.enhancv.com)
     
 # About Freelancer
 
