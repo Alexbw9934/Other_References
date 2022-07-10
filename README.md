@@ -47,19 +47,19 @@
         git fetch
         git rebase origin/master
 
-    A --- B --- C --- D <-- master
-    \
-     \-- E --- F --- G <-- b1
+        A --- B --- C --- D <-- master
+        \
+        \-- E --- F --- G <-- b1
 
-    o merge
-    A --- B --- C --- D <-- master
-    \                 \
-     \-- E --- F --- G +-- H <-- b1
-    
-    o rebase
-    A --- B --- C --- D <-- master
-                       \
-                        \-- E' --- F' --- G' <-- b1
+        o merge
+        A --- B --- C --- D <-- master
+        \                 \
+        \-- E --- F --- G +-- H <-- b1
+        
+        o rebase
+        A --- B --- C --- D <-- master
+                        \
+                            \-- E' --- F' --- G' <-- b1
 
 
 
