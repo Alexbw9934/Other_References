@@ -10,33 +10,40 @@
 
 # Git Fast_Guid 
 
-    -Start 
+    Start 
         git init
         git init -b xxx(Branch init)
-    -Ready
+
+    Ready
         git add .
         git commit -m "xxx" (For ready command for the other actions//push pull...)
-    -Remote connect
+
+    Remote connect
         git remote add origin(customer name) GitURL(https://github.com/Alexbw9934/repository.git)
-    -Branch
+
+    Branch
         git checkout -b branch_name, git switch -c branch_name (Create command)
         git checkout branch_name, git switch branch_name, git branch branch_name (Move command)
         git branch -M branch_name (Main branch create command)
-    -Get info
+
+    Get info
         git remote -v
         git config user.name
         git config user.email
-    -Set config
+
+    Set config
         git config --global user.name "xxx"
         git config --global user.email "xxx"
-    -Pull&Push
+
+    Pull&Push
         git pull oring(Remote name) master(Branch name)
         git push -u origin(Remote name) master(Branch name)
-    -Merge&Rebase
+
+    Merge&Rebase
         git checkout eachbranch
         git merge origin/master
         git push origin b1
-
+        ----------------
         git fetch
         git rebase origin/master
 
