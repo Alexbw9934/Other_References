@@ -62,7 +62,9 @@
         A --- B --- C --- D <-- master
                         \
                             \-- E' --- F' --- G' <-- b1
+# Tailwindcss 
 
+[Tailwindcss install in React](https://tailwindcss.com/docs/guides/create-react-app)
 
 
 
