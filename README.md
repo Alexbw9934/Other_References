@@ -66,5 +66,13 @@
 
 [Tailwindcss install in React](https://tailwindcss.com/docs/guides/create-react-app)
 
+# Communication Info
+    Outlook
+        alexbw9934@outlook.com
+    Github
+        alexbw9934@outlook.com
+    Gmail
+        bwstardev@gmail.com
+    
 
 
