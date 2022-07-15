@@ -79,6 +79,6 @@
 
 # Third party in React
 
-[React third party](https://rapidapi.com/blog/how-to-use-an-api-with-react/)
+[React third party](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
 
 
