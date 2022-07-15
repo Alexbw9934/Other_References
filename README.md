@@ -76,6 +76,9 @@
     Slack
         bwstardev@gmail.com
         alexbw9934@outlook.com
-    
+
+# Third party in React
+
+[React third party](https://rapidapi.com/blog/how-to-use-an-api-with-react/)
 
 
