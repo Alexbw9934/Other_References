@@ -80,5 +80,6 @@
 # Third party in React
 
 [React third party](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
+[React third party_Medium](https://medium.com/@babux1/how-to-display-third-party-api-data-using-react-js-951c5b2e27da)
 
 
