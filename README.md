@@ -76,6 +76,9 @@
     Slack
         bwstardev@gmail.com
         alexbw9934@outlook.com
+        Invite
+            https://javascriptru.slack.com/x-p19288439927-3800863794453-3816541168705/messages/C0K8H23UY
+            https://babeljs.slack.com/x-p6088311890-3800879485429-3827667105424/messages/C062LA0HE
 
 # Third party in React
 
