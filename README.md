@@ -73,6 +73,9 @@
         alexbw9934@outlook.com
     Gmail
         bwstardev@gmail.com
+    Slack
+        bwstardev@gmail.com
+        alexbw9934@outlook.com
     
 
 
