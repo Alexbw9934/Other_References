@@ -89,4 +89,7 @@
 
 [Laravel mix by webpack](https://laravel-mix.com/docs/6.0/what-is-mix)
 
+# Promise
+
+[Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#:~:text=A%20promise%20is%20an%20object,fulfilled%2C%20rejected%2C%20or%20pending.)
 
