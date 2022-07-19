@@ -71,6 +71,10 @@
         alexbw9934@outlook.com
     Github
         alexbw9934@outlook.com
+    GitLab
+        bwstardev@gmail.com
+        Alex Williams
+        12088357
     Gmail
         bwstardev@gmail.com
     Slack
