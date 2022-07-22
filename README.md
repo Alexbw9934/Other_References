@@ -69,6 +69,7 @@
 # Communication Info
     Outlook
         alexbw9934@outlook.com
+        Javierbw9934@outlook.com
     Github
         alexbw9934@outlook.com
     GitLab
