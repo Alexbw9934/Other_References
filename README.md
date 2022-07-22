@@ -97,3 +97,7 @@
 
 [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#:~:text=A%20promise%20is%20an%20object,fulfilled%2C%20rejected%2C%20or%20pending.)
 
+# JavaScript other skills
+
+[Array unique](https://yagisanatode.com/2021/07/03/get-a-unique-list-of-objects-in-an-array-of-object-in-javascript/)
+
